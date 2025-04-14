@@ -16,3 +16,4 @@ get_info_proj
   Для запуска программы используйте следующий синтаксис
   =====================================================
     python ./get_info_proj.py proj=path/name_folder
+    python ./get_info_proj.py proj=path/name_folder --version-only
